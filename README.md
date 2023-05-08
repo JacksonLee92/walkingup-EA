@@ -9,7 +9,7 @@ The setup or strategy named Walking up the bands consists in buy when the prices
 When this strategy must be used? When the prices are low and a new uptrend be initialized. Avoid it at the historical tops.
 
 ![walking up the band](https://user-images.githubusercontent.com/78765404/236300918-c0648970-d64c-4646-a920-96d4f78df592.png)
-Fig. 1. Example of the trading using the strategy Walking up the bands. 
+Fig. 1. Example of the trading using the strategy Walking up the bands. Blue arrow represents the buy and red arrow represents the sell.
 
 ![Limite_BBAS3_bands](https://user-images.githubusercontent.com/78765404/236837256-eeb4946e-e73c-4bc8-930b-bd578633655b.png)
 Fig. 2. Example of choice of the limit for prices to avoid historical top of the asset.
