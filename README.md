@@ -17,3 +17,5 @@ Fig. 2. Example of choice of the limit for prices to avoid historical top of the
 On platform Metatrader 5, in inputs, at the part "Configurações operacionais" there are the option "Limite de preço para evitar o topo histórico" where it can be inserted the price limit. 
 
 Anyone interested can fork and contribute with this code and usage strategies.
+
+Disclaimer: This post contains no financial advice. Do your own research. Use at your own risk.
